@@ -1,10 +1,13 @@
+body{
+    background-color: #ffd3d3;
+}
+
 img{
     width: 70%; 
 }
 
 #LY-jpg {
-    width: 200px;
-    height: 200px; 
+    width: 30%;
 }
 
 
