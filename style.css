@@ -2,8 +2,7 @@ body{
     background-color:  #FFE4CF;
     font-family: Georgia; 
     color:  #5D4617; 
-    align-items: center;
-    
+    align-items: center;   
 }
 
 p{
@@ -45,14 +44,14 @@ h2{
     max-width: 600px; 
     border: 1px solid #B2AC88
 }
+
 img{
-    width: 60%; 
+    width: 70%; 
 }
 
 #LY-jpg {
     width: 30%;
 }
-
 
 table {
     border: 2px solid #000;
@@ -60,4 +59,8 @@ table {
 
 tr {
     border: 1px solid #ccc; 
+}
+
+.ordered-list{
+    text-align:center;
 }
