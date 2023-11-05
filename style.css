@@ -16,16 +16,16 @@ body{
     align-items: center; 
 }
 
-.nav-head nav ul {
-    margin: 0;
-    padding: 0;
-}
-
 .nav-head nav ul li {
     display: inline;
     margin-right: 20px;
+    margin-left: 20px;
 }
 
+.nav-head nav a {
+    text-decoration: none;
+    color: #006D77; 
+}
 
 .blog-post-title{
     font-size: 24px; 
