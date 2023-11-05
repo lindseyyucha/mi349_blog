@@ -1,13 +1,17 @@
 body{
     background-color:  #FFE4CF;
-    display: flex; 
-    flex-wrap: wrap;
+}
+
+
+.blog-post-title{
+    font-size: 24px; 
+    font-weight: bold;
 }
 
 .blog-post{
     flex:1;
     margin: 10px;
-    padding:10px
+    padding:10px;
     border: 1px solid #B2AC88
 }
 img{
