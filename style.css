@@ -5,8 +5,15 @@ body{
     align-items: center;
     
 }
+
 p{
 text-align: center; 
+}
+
+h2{
+    font-size: 24px; 
+    font-weight: bold;
+    text-align:center;
 }
 
 .nav-head{
@@ -29,11 +36,6 @@ text-align: center;
 .nav-head nav a {
     text-decoration: none;
     color: #66786B; 
-}
-
-.blog-post-title{
-    font-size: 24px; 
-    font-weight: bold;
 }
 
 .blog-post{
