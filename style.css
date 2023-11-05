@@ -8,9 +8,12 @@ body{
 .nav-head{
     position: sticky;
     top: 0; 
-    background-color: #FFF; 
-    color: #333; 
+    background-color: #B0AF93; 
+    color: #FFE4BE; 
     padding: 10px;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
 }
 
 .nav-head nav ul {
