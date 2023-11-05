@@ -5,6 +5,24 @@ body{
     
 }
 
+.nav-head{
+    position: sticky;
+    top: 0; 
+    background-color: #FFF; 
+    color: #333; 
+    padding: 10px;
+}
+
+.nav-head nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-head nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
 
 .blog-post-title{
     font-size: 24px; 
