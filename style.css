@@ -65,6 +65,15 @@ img{
     margin-right: 10px;
 }
 
+.image-container {
+    width: 50%; 
+    float: left;
+    margin-right: 10px;
+}
+
+.image-caption{
+    clear: left; 
+}
 
 .caption{
     font-size: 11px; 
