@@ -61,13 +61,13 @@ img{
 }
 
 #LY-jpg {
-    width: 110%;
+    width: 100%;
     float: left; 
     margin-right: 10px;
 }
 
 .image-container {
-    width: 110%; 
+    width: 100%; 
     float: left;
     margin-right: 10px;
 }
