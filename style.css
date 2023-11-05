@@ -3,6 +3,7 @@ body{
     font-family: Georgia; 
     color:  #5D4617; 
     align-items: center;   
+    font-size: 14px; 
 }
 
 p{
@@ -49,10 +50,24 @@ img{
     width: 70%; 
 }
 
-#LY-jpg {
-    width: 30%;
+.about-section{
+    margin:10px;
 }
 
+.about-content{
+    display:flex;
+    align-items:center;
+}
+
+#LY-jpg {
+    width: 20%;
+    float: left; 
+    margin-right: 10px;
+}
+
+.caption{
+    font-size: 11px; 
+}
 table {
     border: 2px solid #000;
 }
